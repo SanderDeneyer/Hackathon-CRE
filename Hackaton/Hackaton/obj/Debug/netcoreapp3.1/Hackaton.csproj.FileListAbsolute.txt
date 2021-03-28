@@ -1,0 +1,466 @@
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.exe
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.deps.json
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.runtimeconfig.json
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.runtimeconfig.dev.json
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.pdb
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.Views.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.Views.pdb
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.csprojAssemblyReference.cache
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.AssemblyInfoInputs.cache
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.AssemblyInfo.cs
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.csproj.CoreCompileInputs.cache
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorAssemblyInfo.cache
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorAssemblyInfo.cs
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\staticwebassets\Hackaton.StaticWebAssets.Manifest.cache
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\staticwebassets\Hackaton.StaticWebAssets.xml
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hackaton.styles.css
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.TagHelpers.input.cache
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.TagHelpers.output.cache
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorCoreGenerate.cache
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorTargetAssemblyInfo.cache
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorTargetAssemblyInfo.cs
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.Views.pdb
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.csproj.CopyComplete
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.dll
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.pdb
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.genruntimeconfig.cache
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Person.cshtml.g.cs
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\RiskStatusCreate.cshtml.g.cs
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\RiskStatusShow.cshtml.g.cs
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\PeopleList.cshtml.g.cs
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Success.cshtml.g.cs
+C:\Users\bartm\source\repos\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.exe
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.deps.json
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.runtimeconfig.json
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.runtimeconfig.dev.json
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.pdb
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.Views.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.Views.pdb
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.csprojAssemblyReference.cache
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.AssemblyInfoInputs.cache
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.AssemblyInfo.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.csproj.CoreCompileInputs.cache
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.MvcApplicationPartsAssemblyInfo.cache
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorAssemblyInfo.cache
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorAssemblyInfo.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\staticwebassets\Hackaton.StaticWebAssets.Manifest.cache
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\staticwebassets\Hackaton.StaticWebAssets.xml
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hackaton.styles.css
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.TagHelpers.input.cache
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.TagHelpers.output.cache
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorCoreGenerate.cache
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\PeopleList.cshtml.g.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Person.cshtml.g.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\RiskStatusCreate.cshtml.g.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\RiskStatusShow.cshtml.g.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Success.cshtml.g.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorTargetAssemblyInfo.cache
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorTargetAssemblyInfo.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.Views.pdb
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.csproj.CopyComplete
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.dll
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.pdb
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.genruntimeconfig.cache
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\PeopleDelete.cshtml.g.cs
+E:\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\RiskDelete.cshtml.g.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.exe
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.deps.json
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.runtimeconfig.json
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.runtimeconfig.dev.json
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.pdb
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.Views.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.Views.pdb
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.csprojAssemblyReference.cache
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.AssemblyInfoInputs.cache
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.AssemblyInfo.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.csproj.CoreCompileInputs.cache
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorAssemblyInfo.cache
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorAssemblyInfo.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\staticwebassets\Hackaton.StaticWebAssets.Manifest.cache
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\staticwebassets\Hackaton.StaticWebAssets.xml
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hackaton.styles.css
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.TagHelpers.input.cache
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.TagHelpers.output.cache
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorCoreGenerate.cache
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\PeopleDelete.cshtml.g.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\PeopleList.cshtml.g.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Person.cshtml.g.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\RiskDelete.cshtml.g.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\RiskStatusCreate.cshtml.g.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\RiskStatusShow.cshtml.g.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Success.cshtml.g.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorTargetAssemblyInfo.cache
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorTargetAssemblyInfo.cs
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.Views.pdb
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.csproj.CopyComplete
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.dll
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.pdb
+C:\Users\bramv\OneDrive\Bureaublad\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.genruntimeconfig.cache
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.exe
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.deps.json
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.runtimeconfig.json
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.runtimeconfig.dev.json
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.pdb
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.Views.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Hackaton.Views.pdb
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.csprojAssemblyReference.cache
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.AssemblyInfoInputs.cache
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.AssemblyInfo.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.csproj.CoreCompileInputs.cache
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorAssemblyInfo.cache
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorAssemblyInfo.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\staticwebassets\Hackaton.StaticWebAssets.Manifest.cache
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\staticwebassets\Hackaton.StaticWebAssets.xml
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hackaton.styles.css
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.TagHelpers.input.cache
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.TagHelpers.output.cache
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorCoreGenerate.cache
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\PeopleDelete.cshtml.g.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\PeopleList.cshtml.g.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Person.cshtml.g.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\RiskDelete.cshtml.g.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\RiskStatusCreate.cshtml.g.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\RiskStatusShow.cshtml.g.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Home\Success.cshtml.g.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorTargetAssemblyInfo.cache
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.RazorTargetAssemblyInfo.cs
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.Views.pdb
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.csproj.CopyComplete
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.dll
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.pdb
+C:\Users\sande\Documents\Odisee\2TI\Marketing & Innovation\Hackaton\Hackaton\Hackaton\obj\Debug\netcoreapp3.1\Hackaton.genruntimeconfig.cache

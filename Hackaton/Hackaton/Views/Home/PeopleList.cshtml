@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Hackaton.Models.Person>
+
+@{
+    ViewData["Title"] = "PeopleList";
+}
+
+<h1>PeopleList</h1>
+
+<p>
+    <a asp-action="Person">Create new person</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.ActionLink("Add risk", "RiskStatusCreate", new { id=item.ID  }) |
+                @Html.ActionLink("Show Risks", "RiskStatusShow", new {  id=item.ID  }) |
+                @Html.ActionLink("Delete", "PeopleDelete", new { id=item.ID  })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
